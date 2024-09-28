@@ -4,9 +4,9 @@ This project analyzes the famous Fisher's Iris dataset to develop a classifier t
 
 Class Design and Implementation
 The project is structured as follows:
-- `DataLoader`: A class designed to load and preprocess data from CSV files.
-- `DataAnalyzer`: A class that encapsulates methods for statistical analysis.
-- `SpeciesComparator`: A class used for comparing species based on statistical results.
+- DataLoader: A class designed to load and preprocess data from CSV files.
+- DataAnalyzer: A class that encapsulates methods for statistical analysis.
+- SpeciesComparator: A class used for comparing species based on statistical results.
 
 Each class is designed to handle specific aspects of the data analysis process, ensuring that the code is modular, reusable, and easy to maintain.
 
